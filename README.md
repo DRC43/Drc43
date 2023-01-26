@@ -1,4 +1,4 @@
-## <i><b>Olá! eu sou o Dener 😊
+## Olá! eu sou o Dener 😊
 
 - 📚 Atualmente estou aprendendo Java no programa Start Tech
 - 📚 Também estudo Typescript na escola +1Code
