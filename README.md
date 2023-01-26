@@ -6,7 +6,7 @@
 - ⚡ Curiosidades: gosto de acampar e assitir tv
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drc43&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drc43&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drc43&theme=tokyonight&show_icons=true&layout=compact)
 
 <div style="display: inline_block"><br>    
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
