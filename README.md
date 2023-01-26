@@ -2,7 +2,6 @@
 
 - 📚 Atualmente estou aprendendo Java no programa Start Tech
 - 📚 Também estudo Typescript na escola +1Code
-- 💻 LinkedIn: www.linkedin.com/in/drc43
 - 😁 Pronouns: ele/dele
 - ⚡ Curiosidades: gosto de acampar e assitir tv
 
@@ -25,7 +24,6 @@
   <a href ="mailto:denerrodrigo4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/drc43" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="mailto:denercorrea@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
-  
   
 </div>
   
