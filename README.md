@@ -26,7 +26,7 @@
   <a href="mailto:denerrodrigo4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/drc43" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="mailto:denercorrea@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://api.whatsapp.com/send?phone=5547996598011" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send?phone=5547996598011&text=Hello%20👋%20aqui%20é%20Dener,%20estou%20ausente%20neste%20momento%20e%20assim%20que%20possível%20te%20respondo%20ok%20?%20Muito%20Obrigado%20😊" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   </div>
   
  
