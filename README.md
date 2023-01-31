@@ -5,7 +5,7 @@
 - 📚 Cursei o Programa Jovem Programador e aprendi os conceitos básicos de C++ e C#
 - 📚 Cursei Desenvolvimento Web no IOS e aprendi os conceitos básicos de HTML, CSS, JavaScript e React
 - 😁 Pronouns: ele/dele
-- ⚡ Curiosidades: gosto de acampar e assitir tv
+- ⚡ Curiosidades: tenho 3 gatos, gosto de acampar e assitir tv 🏕️📺🐈
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drc43&theme=tokyonight&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drc43&theme=tokyonight&show_icons=true&layout=compact)
