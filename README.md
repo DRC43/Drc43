@@ -2,6 +2,8 @@
 
 - 📚 Atualmente estou aprendendo Java no programa Start Tech
 - 📚 Também estudo Typescript na escola +1Code
+- 📚 Cursei o Programa Jovem Programador e aprendi os conceitos básicos de C++ e C#
+- 📚 Cursei Desenvolvimento Web no IOS e aprendi os conceitos básicos de HTML, CSS, JavaScript e React
 - 😁 Pronouns: ele/dele
 - ⚡ Curiosidades: gosto de acampar e assitir tv
 
